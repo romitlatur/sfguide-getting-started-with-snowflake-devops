@@ -1,8 +1,8 @@
 [connections.default]
 warehouse = "QUICKSTART_WH"
 role = "ACCOUNTADMIN"
-database = "QUICKSTART_COMMON"
-schema = "PUBLIC"
+database = "QUICKSTART_PROD"
+schema = "SILVER"
 account = "INADUSK-BW23123"
 user = "romitlatur"
 password = "Synechr0n$2026"
